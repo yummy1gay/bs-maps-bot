@@ -6,7 +6,7 @@ Telegram bot, which shows information about the current and upcoming map in Show
 ### Installation
 - Clone this git repository.
 ```sh 
-git clone [https://github.com/viperadnan-git/google-drive-telegram-bot](https://github.com/yummy1gay/bs-maps-bot.git)
+git clone https://github.com/yummy1gay/bs-maps-bot.git
 ```
 - Change Directory
 ```sh 
