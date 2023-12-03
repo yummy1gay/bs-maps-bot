@@ -1,6 +1,5 @@
-# bs-maps-bot
-Telegram bot, which shows information about the current and upcoming map in Showdown mode from the game brawl stars using brawlapi.com
-Бот телеграм, который показывает информацию об текущей и предстоящей карте в режиме шд из игры бравл старс используя brawlapi.com
+# bs maps bot
+Telegram bot, which shows information about the current and upcoming map in Showdown mode from the game brawl stars using brawlapi.com\nБот телеграм, который показывает информацию об текущей и предстоящей карте в режиме шд из игры бравл старс используя brawlapi.com
 
 ### Installation
 - Clone this git repository.
